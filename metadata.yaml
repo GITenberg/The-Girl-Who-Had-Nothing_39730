@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3796
     wikipedia: http://en.wikipedia.org/wiki/Alice_Muriel_Williamson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39730#The-Girl-Who-Had-Nothing
 gutenberg_issued: '2012-05-18'
 gutenberg_type: Text
 identifiers:
